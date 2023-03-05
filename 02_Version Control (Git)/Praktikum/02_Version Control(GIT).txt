@@ -1,2 +1,5 @@
 -Membuat branch baru
+  disini saya membuat sebuah branch baru yang saya namakan rencana-QE2 dengan tujuan untuk melakukan sebuah perubahan pada project yang sedang saya kerjakan tetapi tidak   menggangu isi dari main branch yang sudah ada, saya menambahkan sebuah kata kata di rencana-QE2 dan saya melakukan commit.
+  
 -Melakukan pull request
+  setelah saya melakukan commit yang ada di branch rencana-QE2 lalu saya melakukan pull request dengan tujuan membuat file yang telah dibuat di branch rencana-QE2 dapat   masuk kedalam branch main, setelah itu saya melakukan merge untuk memberikan akses untuk memasukkan file ke dalam branch main.
