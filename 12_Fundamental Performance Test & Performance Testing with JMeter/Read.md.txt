@@ -1,1 +1,3 @@
-Test
+teori : https://docs.google.com/document/d/1WmiF9XA2Xy6__bwxa_fe6DW_PEmwVsMT7vJtGUKOJpI/edit?usp=sharing
+JMeter: 
+https://docs.google.com/document/d/1kYKBKj3y0p9z_BpwBIfVQt8ThO16O7igrS1EnkUhNCQ/edit?usp=sharing
