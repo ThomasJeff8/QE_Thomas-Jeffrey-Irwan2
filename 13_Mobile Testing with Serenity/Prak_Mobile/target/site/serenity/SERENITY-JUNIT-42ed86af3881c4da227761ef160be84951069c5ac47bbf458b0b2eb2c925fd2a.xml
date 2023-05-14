@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="As a user i have be able to login so that i can see home screen" skipped="0" tests="1" time="3.86" timestamp="2023-05-14 10:20:39"><testcase name="As a user i cant login because i input invalid password"><error message="Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-514QHO6', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: driver.version: AndroidDriver&#10;remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up&#10;    at UIA2Proxy.command (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:274:13)&#10;    at runMicrotasks (&lt;anonymous&gt;)&#10;    at processTicksAndRejections (internal/process/task_queues.js:97:5)&#10;    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\commands\viewport.js:14:10)&#10;    at AndroidUiautomator2Driver.fillDeviceDetails (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\driver.js:244:28)&#10;    at AndroidUiautomator2Driver.createSession (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\driver.js:230:7)&#10;    at AppiumDriver.createSession (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\lib\appium.js:387:35)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-514QHO6', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.SessionNotCreatedException">Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-514QHO6', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:274:13)
+    at runMicrotasks (&lt;anonymous&gt;)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\commands\viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\driver.js:230:7)
+    at AppiumDriver.createSession (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\lib\appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-514QHO6', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: driver.version: AndroidDriver</error><system-err>Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-514QHO6', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:274:13)
+    at runMicrotasks (&lt;anonymous&gt;)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\commands\viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\driver.js:230:7)
+    at AppiumDriver.createSession (C:\Users\Thomas\AppData\Local\Programs\Appium Server GUI\resources\app\node_modules\appium\lib\appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-514QHO6', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.&lt;init&gt;(DefaultGenericMobileDriver.java:37)&#13;
+io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:89)&#13;
+io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:99)&#13;
+io.appium.java_client.android.AndroidDriver.&lt;init&gt;(AndroidDriver.java:97)&#13;
+test.automation.driver.AndroidDriverPool.create(AndroidDriverPool.java:30)&#13;
+test.automation.pageobject.BasePageObject.getDriver(BasePageObject.java:19)&#13;
+test.automation.pageobject.BasePageObject.onWait(BasePageObject.java:25)&#13;
+test.automation.pageobject.BasePageObject.waitUntilPresence(BasePageObject.java:33)&#13;
+test.automation.pages.LoginScreen.isOnPage(LoginScreen.java:31)&#13;
+test.automation.stepdefinitions.LoginSteps.androidUserOnLandingScreen(LoginSteps.java:17)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:64)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:104)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:73)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:258)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase></testsuite>

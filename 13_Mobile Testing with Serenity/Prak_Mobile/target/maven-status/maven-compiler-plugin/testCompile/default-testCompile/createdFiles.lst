@@ -1,0 +1,4 @@
+test\automation\hooks\BaseDriverHooks.class
+test\automation\CucumberTestSuite.class
+test\automation\stepdefinitions\LoginSteps.class
+test\automation\pages\LoginScreen.class
